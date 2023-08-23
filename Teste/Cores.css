@@ -1,0 +1,24 @@
+.Começo{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family:Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;
+}
+    .botao{
+        font-size: 25px;
+        background-color: rgb(0, 0, 0);
+        border: 0px;
+        font-family:Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;
+}
+    .fundo{
+        background-color: black;
+}
+    #corbranca{
+    color: white;
+    font-family:  Helvetica, Arial, sans-serif;
+    background-color: hsl(0, 100%, 50%); 
+
+        transition: 0.5s;
+        
+        opacity: 0.7;
+        
+    }
